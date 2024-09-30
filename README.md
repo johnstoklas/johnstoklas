@@ -12,7 +12,7 @@ I have a passion for leveraging technology to solve real-world problems and impr
 ## Projects
 - **Multiplayer Movie Guessing Game**: A turned-based multiplayer game where two players must determine the chronological order of 10 movies before their opponent 
 does. Used Node.js to communicate the player's move with the server to the opponent's computer. Implemented TMDB API to pull a database of movies so users can guess from a list of movies.
-- **Training Log**: Users can log into their account and post workouts and training sessions on to their account. They are then saved on a database using MongoDB. Once they log out, the data is saved for when they come back. Also uses Node.js to send database information to the server.
+- **Training Log**: Users can log into their account and post workouts and training sessions onto their account. The data is saved on a database using MongoDB. Once they log out, the data is saved for when they come back. Also uses Node.js to send database information to the server.
 
 ## Interests
 I am particularly interested in areas like artificial intelligence, software development, and data analytics. I enjoy taking on challenges that allow me to learn new skills and apply my knowledge in innovative ways.
