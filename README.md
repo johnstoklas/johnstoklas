@@ -4,19 +4,11 @@
 Hi there! I'm John Stoklas, a Computer Science and Business major with a Math minor at Trinity University. I’m passionate about leveraging technology to solve real-world problems and enhance business processes. My studies have equipped me with a solid foundation in programming, algorithms, data structures, and insights into business strategy and operations.
 
 ## 🛠️ Skills
-**Programming Languages**:  
-![Python](https://img.icons8.com/color/24/000000/python.png) Python &nbsp; | &nbsp; 
-![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png) Java &nbsp; | &nbsp; 
-![Haskell](https://img.icons8.com/color/24/000000/haskell.png) Haskell  
-
-**Web Development**:  
-![HTML](https://img.icons8.com/color/24/000000/html-5.png) HTML &nbsp; | &nbsp; 
-![CSS](https://img.icons8.com/color/24/000000/css3.png) CSS &nbsp; | &nbsp; 
-![JavaScript](https://img.icons8.com/color/24/000000/javascript.png) JavaScript &nbsp; | &nbsp; 
-![Node.js](https://img.icons8.com/color/24/000000/nodejs.png) Node.js  
-
-**Database Management**:  
-![MongoDB](https://img.icons8.com/color/24/000000/mongodb.png) MongoDB
+| Programming Languages | Web Development | Database Management |
+|-----------------------|------------------|---------------------|
+| ![Python](https://img.icons8.com/color/24/000000/python.png) Python | ![HTML](https://img.icons8.com/color/24/000000/html-5.png) HTML | ![MongoDB](https://img.icons8.com/color/24/000000/mongodb.png) MongoDB |
+| ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png) Java | ![CSS](https://img.icons8.com/color/24/000000/css3.png) CSS |  |
+| ![Haskell](https://img.icons8.com/color/24/000000/haskell.png) Haskell | ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png) JavaScript | ![Node.js](https://img.icons8.com/color/24/000000/nodejs.png) Node.js |
 
 ## 🚀 Projects
 ### 1. [Multiplayer Movie Guessing Game](#)
