@@ -1,37 +1,42 @@
 # John Stoklas
 
-## About Me
-My name is John Stoklas. I am a Computer Science and Business Major with a Math Minor at Trinity University. 
+## 👋 About Me
+Hi there! I'm John Stoklas, a Computer Science and Business major with a Math minor at Trinity University. I’m passionate about leveraging technology to solve real-world problems and enhance business processes. My studies have equipped me with a solid foundation in programming, algorithms, data structures, and insights into business strategy and operations.
 
-I have a passion for leveraging technology to solve real-world problems and improve business processes. Through my studies, I have gained a solid foundation in programming, algorithms, and data structures, as well as insights into business strategy and operations.
+## 🛠️ Skills
+- **Programming Languages**:
+  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+  - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+  - ![Haskell](https://img.icons8.com/color/48/000000/haskell.png) Haskell
+- **Web Development**:
+  - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+  - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+  - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- **Database Management**:
+  - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
 
-## Skills
-- **Programming Languages**: Python, Java, Haskell
-- **Web Development**: HTML, CSS, JavaScript, Node.js
+## 🚀 Projects
+### 1. [Multiplayer Movie Guessing Game](#)
+A turn-based multiplayer game where players must determine the chronological order of 10 movies before their opponent does. 
+- **Technologies Used**: Node.js, TMDB API
+- **Features**:
+  - Real-time communication between players using WebSockets
+  - Access to a vast database of movies for a fun guessing experience
 
-## Projects
-- **Multiplayer Movie Guessing Game**: A turned-based multiplayer game where two players must determine the chronological order of 10 movies before their opponent 
-does. Used Node.js to communicate the player's move with the server to the opponent's computer. Implemented TMDB API to pull a database of movies so users can guess from a list of movies.
-- **Training Log**: Users can log into their account and post workouts and training sessions onto their account. The data is saved on a database using MongoDB. Once they log out, the data is saved for when they come back. Also uses Node.js to send database information to the server.
+### 2. [Training Log](#)
+An application for users to log workouts and training sessions, with data securely stored in a MongoDB database. 
+- **Technologies Used**: Node.js, MongoDB
+- **Features**:
+  - User authentication for secure access
+  - Persistent storage of training data for easy retrieval
 
-## Interests
-I am particularly interested in areas like artificial intelligence, software development, and data analytics. I enjoy taking on challenges that allow me to learn new skills and apply my knowledge in innovative ways.
+## 🌟 Interests
+I’m particularly interested in **artificial intelligence**, **software development**, and **data analytics**. I love tackling challenges that allow me to learn new skills and apply my knowledge in innovative ways.
 
-## Contact
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/john-stoklas) or check out my portfolio at [johnstoklas.com](www.johnstoklas.com).
+## 📫 Contact
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/john-stoklas) or check out my portfolio at [johnstoklas.com](https://www.johnstoklas.com).
 
+---
 
-<!--
-**johnstoklas/johnstoklas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my GitHub profile! I’m always open to collaborations and learning opportunities.
