@@ -5,14 +5,14 @@ Hi there! I'm John Stoklas, a Computer Science and Business major with a Math mi
 
 ## 🛠️ Skills
 **Programming Languages**:  
-<img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" /> Python  
-<img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java" /> Java  
+<img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" /> Python &nbsp;
+<img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java" /> Java &nbsp;
 <img src="https://img.icons8.com/color/24/000000/haskell.png" alt="Haskell" /> Haskell  
 
 **Web Development**:  
-<img src="https://img.icons8.com/color/24/000000/html-5.png" alt="HTML" /> HTML  
-<img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS" /> CSS  
-<img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" /> JavaScript  
+<img src="https://img.icons8.com/color/24/000000/html-5.png" alt="HTML" /> HTML &nbsp;
+<img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS" /> CSS &nbsp;
+<img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" /> JavaScript &nbsp;
 <img src="https://img.icons8.com/color/24/000000/nodejs.png" alt="Node.js" /> Node.js  
 
 **Database Management**:  
