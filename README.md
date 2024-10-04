@@ -5,16 +5,16 @@ Hi there! I'm John Stoklas, a Computer Science and Business major with a Math mi
 
 ## 🛠️ Skills
 - **Programming Languages**:
-  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-  - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-  - ![Haskell](https://img.icons8.com/color/48/000000/haskell.png) Haskell
+  - <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" /> Python
+  - <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java" /> Java
+  - <img src="https://img.icons8.com/color/24/000000/haskell.png" alt="Haskell" /> Haskell
 - **Web Development**:
-  - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-  - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-  - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+  - <img src="https://img.icons8.com/color/24/000000/html-5.png" alt="HTML" /> HTML
+  - <img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS" /> CSS
+  - <img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" /> JavaScript
+  - <img src="https://img.icons8.com/color/24/000000/nodejs.png" alt="Node.js" /> Node.js
 - **Database Management**:
-  - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+  - <img src="https://img.icons8.com/color/24/000000/mongodb.png" alt="MongoDB" /> MongoDB
 
 ## 🚀 Projects
 ### 1. [Multiplayer Movie Guessing Game](#)
