@@ -21,17 +21,29 @@ Hi there! I'm John Stoklas, a Computer Science and Business major with a Math mi
 ## 🚀 Projects
 ### 1. [Multiplayer Movie Guessing Game](#)
 A turn-based multiplayer game where players must determine the chronological order of 10 movies before their opponent does. 
-- **Technologies Used**: Node.js, TMDB API
+- **Technologies Used**: JavaScript, HTML, CSS, Node.js (Socket.io), TMDB API, Heroku	
 - **Features**:
-  - Real-time communication between players using WebSockets
-  - Access to a vast database of movies for a fun guessing experience
+  -	A website that has two players face off to see who can get 10 movies in chronological release order before the other
+  - Implemented an API integration to store movie data for the game, streamlining the process of retrieving and displaying relevant information for players, to make a more 
+    enjoyable user experience for players
+  - Worked with Node.js to improve my back-end skills and built front-end user interface with HTML and CSS
 
 ### 2. [Training Log](#)
 An application for users to log workouts and training sessions, with data securely stored in a MongoDB database. 
-- **Technologies Used**: Node.js, MongoDB
+- **Technologies Used**: JavaScript, HTML, CSS, Node.js (Socket.io), MongoDB
 - **Features**:
-  - User authentication for secure access
-  - Persistent storage of training data for easy retrieval
+  -	I built a website that allows a user to login, and store their workouts by allowing them to log what they did, when they did it, how difficult it was, and their mood
+  -	They could leave the website where the data would be stored until they logged back in with their account
+  -	Continued to work on back-end skills with Node.js, this time incorporating a database with MongoDB
+ 
+### 3. [Discord Weather Bot](#)
+A discord application that allows a user to ask what the weather will be like in a certain area.
+- **Technologies Used**: JavaScript, Discord.js, Tomorrow.io API, QuickChart.io API
+- **Features**:
+  -	A discord bot that, when called, can give the user access to specific weather conditions in an area
+  -	This project improved my back-end skills by working with Discord to send data that the user inputs to the bot
+  -	The bot then inputs the data into the Tomorrow.io API to fetch the weather which is then sent to the QuickChart.io API to convert that data into a graph which is then   
+    sent back with improved readability and visualization for the user
 
 ## 🌟 Interests
 I’m particularly interested in **artificial intelligence**, **software development**, and **data analytics**. I love tackling challenges that allow me to learn new skills and apply my knowledge in innovative ways.
