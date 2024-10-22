@@ -5,6 +5,8 @@ Hi there! I'm John Stoklas, a Computer Science and Business major with a Math mi
 
 ## 🛠️ Skills
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) **Java**
+- - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**
+
 **Programming Languages**:  
 <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" /> Python &nbsp; | &nbsp; 
 <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java" /> Java &nbsp; | &nbsp; 
