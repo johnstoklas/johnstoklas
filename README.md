@@ -4,36 +4,19 @@
 Hi there! I'm John Stoklas, a Computer Science and Business major with a Math minor at Trinity University. I’m passionate about leveraging technology to solve real-world problems and enhance business processes. My studies have equipped me with a solid foundation in programming, algorithms, data structures, and insights into business strategy and operations.
 
 ## 🛠️ Skills
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) **Java**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**
+### Programming Languages:  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)  
 
-**Programming Languages**:  
-<img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" /> Python &nbsp; | &nbsp; 
-<img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java" /> Java &nbsp; | &nbsp; 
-<img src="https://img.icons8.com/color/24/000000/haskell.png" alt="Haskell" /> Haskell  
+### Web Development:  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web Development**:  
-<img src="https://img.icons8.com/color/24/000000/html-5.png" alt="HTML" /> HTML &nbsp; | &nbsp; 
-<img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS" /> CSS &nbsp; | &nbsp; 
-<img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" /> JavaScript &nbsp; | &nbsp; 
-<img src="https://img.icons8.com/color/24/000000/nodejs.png" alt="Node.js" /> Node.js  
-
-**Database Management**:  
-<img src="https://img.icons8.com/color/24/000000/mongodb.png" alt="MongoDB" /> MongoDB
-
-### Programming Languages:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) **Java**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript**
-- ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) **Haskell**
-
-### Web Development:
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) **HTML**
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) **CSS**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) **Node.js**
-
-### Database Management:
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) **MongoDB**
-
+### Database Management:  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🚀 Projects
 ### 1. [Multiplayer Movie Guessing Game](#)
