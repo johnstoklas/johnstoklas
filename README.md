@@ -19,31 +19,33 @@ Hi there! I'm John Stoklas, a Computer Science and Business major with a Math mi
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🚀 Projects
-### 1. [Movie Match-Up](https://github.com/johnstoklas/movie-guesser)
-A turn-based multiplayer game where players must determine the chronological order of 10 movies before their opponent does. 
+### 1. [StressSaver AI](https://github.com/johnstoklas/rowdy-hacks-2024))
+Attended RowdyHacks 2024 where me and my friends built a website that has a user enter simple, trackable data like step count, heart rate, and hours of sleep for our AI to give the user a stress level prediction and recommendations on how to improve it- **Technologies Used**: React, MongoDB, TensorFlow, OpenAI JavaScript, Node.js, SCSS
+- **Features**:
+- Built the front end of the project using React, we created a log-in page, an input page, and a profile page
+-	Trained a machine learning model to understand data about how step count, heart rate, and sleep can affect stress, we then sent the user’s cumulative data, stored in a database using MongoDB, to Open AI where it would output recommendations for the user
+-	Learned how to collaborate on a full stack project, connecting components from the front and back end, making sure to keep track of Git Versions
+
+  - 
+### 2. [Movie Match-Up](https://github.com/johnstoklas/movie-guesser)
+A multiplayer web-based game where two players face off to see who can get 10 movies in chronological release order based on movie frames.
 - **Technologies Used**: JavaScript, HTML, CSS, Node.js (Socket.io), TMDB API, Heroku	
 - **Features**:
-  -	A website that has two players face off to see who can get 10 movies in chronological release order before the other
-  - Implemented an API integration to store movie data for the game, streamlining the process of retrieving and displaying relevant information for players, to make a more 
-    enjoyable user experience for players
+  - Integrated TMDB API to store movie data for the game, streamlining the process of retrieving and displaying relevant information for players, to make a more enjoyable user experience for players
   - Worked with Node.js to improve my back-end skills and built front-end user interface with HTML and CSS
 
-### 2. [Exercise Tracker](https://github.com/johnstoklas/training-log-app)
-An application for users to log workouts and training sessions, with data securely stored in a MongoDB database. 
-- **Technologies Used**: JavaScript, HTML, CSS, Node.js (Socket.io), MongoDB
+### 3. [Exercise Tracker](https://github.com/johnstoklas/training-log-app)
+A website that allows a user to log-in and document their workouts by allowing them to log what they did, when they did it, how difficult it was, and their mood- **Technologies Used**: JavaScript, HTML, CSS, Node.js (Socket.io), MongoDB
 - **Features**:
-  -	I built a website that allows a user to login, and store their workouts by allowing them to log what they did, when they did it, how difficult it was, and their mood
-  -	They could leave the website where the data would be stored until they logged back in with their account
-  -	Continued to work on back-end skills with Node.js, this time incorporating a database with MongoDB
+-	Their workouts were stored in a database, using MongoDB, furthering my back-end skills with Node.js
+
  
-### 3. [Discord Weather Bot](https://github.com/johnstoklas/discord-weather-bot)
-A discord application that allows a user to ask what the weather will be like in a certain area.
+### 4. [Discord Weather Bot](https://github.com/johnstoklas/discord-weather-bot)
+A discord bot that, when called, can give the user access to specific weather conditions in an area
 - **Technologies Used**: JavaScript, Discord.js, Tomorrow.io API, QuickChart.io API
 - **Features**:
-  -	A discord bot that, when called, can give the user access to specific weather conditions in an area
   -	This project improved my back-end skills by working with Discord to send data that the user inputs to the bot
-  -	The bot then inputs the data into the Tomorrow.io API to fetch the weather which is then sent to the QuickChart.io API to convert that data into a graph which is then   
-    sent back with improved readability and visualization for the user
+  -	The bot then inputs the data into the Tomorrow.io API to fetch the weather which is then sent to the QuickChart.io API to convert that data into a graph which is then sent back with improved readability and visualization for the user
 
 ## 🌟 Interests
 I’m particularly interested in **artificial intelligence**, **software development**, and **data analytics**. I love tackling challenges that allow me to learn new skills and apply my knowledge in innovative ways.
