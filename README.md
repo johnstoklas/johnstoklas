@@ -23,9 +23,9 @@ Hi there! I'm John Stoklas, a Computer Science and Business major with a Math mi
 Attended RowdyHacks 2024 where me and my friends built a website that has a user enter simple, trackable data like step count, heart rate, and hours of sleep for our AI to give the user a stress level prediction and recommendations on how to improve it
 - **Technologies Used**: React, MongoDB, TensorFlow, OpenAI JavaScript, Node.js, SCSS
 - **Features**:
-- Built the front end of the project using React, we created a log-in page, an input page, and a profile page
--	Trained a machine learning model to understand data about how step count, heart rate, and sleep can affect stress, we then sent the user’s cumulative data, stored in a database using MongoDB, to Open AI where it would output recommendations for the user
--	Learned how to collaborate on a full stack project, connecting components from the front and back end, making sure to keep track of Git Versions
+  - Built the front end of the project using React, we created a log-in page, an input page, and a profile page
+  -	Trained a machine learning model to understand data about how step count, heart rate, and sleep can affect stress, we then sent the user’s cumulative data, stored in a database using MongoDB, to Open AI where it would output recommendations for the user
+  -	Learned how to collaborate on a full stack project, connecting components from the front and back end, making sure to keep track of Git Versions
 
   - 
 ### 2. [Movie Match-Up](https://github.com/johnstoklas/movie-guesser)
@@ -36,9 +36,10 @@ A multiplayer web-based game where two players face off to see who can get 10 mo
   - Worked with Node.js to improve my back-end skills and built front-end user interface with HTML and CSS
 
 ### 3. [Exercise Tracker](https://github.com/johnstoklas/training-log-app)
-A website that allows a user to log-in and document their workouts by allowing them to log what they did, when they did it, how difficult it was, and their mood- **Technologies Used**: JavaScript, HTML, CSS, Node.js (Socket.io), MongoDB
+A website that allows a user to log-in and document their workouts by allowing them to log what they did, when they did it, how difficult it was, and their mood
+- **Technologies Used**: JavaScript, HTML, CSS, Node.js (Socket.io), MongoDB
 - **Features**:
--	Their workouts were stored in a database, using MongoDB, furthering my back-end skills with Node.js
+  -	Their workouts were stored in a database, using MongoDB, furthering my back-end skills with Node.js
 
  
 ### 4. [Discord Weather Bot](https://github.com/johnstoklas/discord-weather-bot)
