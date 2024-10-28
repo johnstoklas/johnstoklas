@@ -26,8 +26,7 @@ Attended RowdyHacks 2024 where me and my friends built a website that has a user
   - Built the front end of the project using React, we created a log-in page, an input page, and a profile page
   -	Trained a machine learning model to understand data about how step count, heart rate, and sleep can affect stress, we then sent the user’s cumulative data, stored in a database using MongoDB, to Open AI where it would output recommendations for the user
   -	Learned how to collaborate on a full stack project, connecting components from the front and back end, making sure to keep track of Git Versions
-
-  - 
+    
 ### 2. [Movie Match-Up](https://github.com/johnstoklas/movie-guesser)
 A multiplayer web-based game where two players face off to see who can get 10 movies in chronological release order based on movie frames.
 - **Technologies Used**: JavaScript, HTML, CSS, Node.js (Socket.io), TMDB API, Heroku	
