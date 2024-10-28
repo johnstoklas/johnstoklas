@@ -19,8 +19,9 @@ Hi there! I'm John Stoklas, a Computer Science and Business major with a Math mi
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🚀 Projects
-### 1. [StressSaver AI](https://github.com/johnstoklas/rowdy-hacks-2024))
-Attended RowdyHacks 2024 where me and my friends built a website that has a user enter simple, trackable data like step count, heart rate, and hours of sleep for our AI to give the user a stress level prediction and recommendations on how to improve it- **Technologies Used**: React, MongoDB, TensorFlow, OpenAI JavaScript, Node.js, SCSS
+### 1. [StressSaver AI](https://github.com/johnstoklas/rowdy-hacks-2024)
+Attended RowdyHacks 2024 where me and my friends built a website that has a user enter simple, trackable data like step count, heart rate, and hours of sleep for our AI to give the user a stress level prediction and recommendations on how to improve it
+- **Technologies Used**: React, MongoDB, TensorFlow, OpenAI JavaScript, Node.js, SCSS
 - **Features**:
 - Built the front end of the project using React, we created a log-in page, an input page, and a profile page
 -	Trained a machine learning model to understand data about how step count, heart rate, and sleep can affect stress, we then sent the user’s cumulative data, stored in a database using MongoDB, to Open AI where it would output recommendations for the user
