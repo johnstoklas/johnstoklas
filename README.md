@@ -19,7 +19,7 @@ Hi there! I'm John Stoklas, a Computer Science and Business major with a Math mi
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🚀 Projects
-### 1. [Movie Match-Up](https://github.com/johnstoklas/movie-guesser){:target="_blank" rel="noopener"}
+### 1. [Movie Match-Up](https://github.com/johnstoklas/movie-guesser)
 A turn-based multiplayer game where players must determine the chronological order of 10 movies before their opponent does. 
 - **Technologies Used**: JavaScript, HTML, CSS, Node.js (Socket.io), TMDB API, Heroku	
 - **Features**:
