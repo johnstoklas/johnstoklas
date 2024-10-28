@@ -28,7 +28,7 @@ A turn-based multiplayer game where players must determine the chronological ord
     enjoyable user experience for players
   - Worked with Node.js to improve my back-end skills and built front-end user interface with HTML and CSS
 
-### 2. [Exercise Tracker](#)
+### 2. [Exercise Tracker](https://github.com/johnstoklas/training-log-app)
 An application for users to log workouts and training sessions, with data securely stored in a MongoDB database. 
 - **Technologies Used**: JavaScript, HTML, CSS, Node.js (Socket.io), MongoDB
 - **Features**:
@@ -36,7 +36,7 @@ An application for users to log workouts and training sessions, with data secure
   -	They could leave the website where the data would be stored until they logged back in with their account
   -	Continued to work on back-end skills with Node.js, this time incorporating a database with MongoDB
  
-### 3. [Discord Weather Bot](#)
+### 3. [Discord Weather Bot](https://github.com/johnstoklas/discord-weather-bot)
 A discord application that allows a user to ask what the weather will be like in a certain area.
 - **Technologies Used**: JavaScript, Discord.js, Tomorrow.io API, QuickChart.io API
 - **Features**:
