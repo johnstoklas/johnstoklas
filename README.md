@@ -25,7 +25,6 @@ A website that allows a user to log-in and document their workouts by allowing t
 - **Features**:
   -	Their workouts were stored in a database, using MongoDB, furthering my back-end skills with Node.js
 
- 
 ### 4. [Discord Weather Bot](https://github.com/johnstoklas/discord-weather-bot)
 A discord bot that, when called, can give the user access to specific weather conditions in an area
 - **Technologies Used**: JavaScript, Discord.js, Tomorrow.io API, QuickChart.io API
