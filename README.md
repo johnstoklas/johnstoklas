@@ -8,12 +8,12 @@ Hi! I'm John Stoklas, an aspiring full-stack developer and a double major in com
 BuyHive is an AI-powered shopping cart that utilizes web scraping to reduce clutter between websites. The Chrome extension condenses all of your shopping into one cart, improving shopping efficiency and removing the hassle of having to keep track of where all your items are!
 - **Technologies Used**: React, JavaScript, Chrome APIs, Auth0, Babel
 - **Features**:
- - User Authentication: Implemented secure user login using Auth0 and stored session data with Chrome Extension APIs for personalized, seamless user experiences.
- - Adding Items: Scraped product details like price, title, and image using AI models and stored organized user data in MongoDB via middleware in background.js.
- - Folder Organization: Managed real-time folder updates with React’s useState and Virtual DOM, locally caching changes to reduce server interactions.
- - Item Management: Enabled inline-editing and real-time actions for item updates, deletions, and organization with React hooks.
- - Email Sharing: Streamlined sharing by allowing users to email folders directly, reducing the need to send multiple links.
- - Popup and Click Handling: Used useRef and global variables to optimize space and control pop-ups, minimizing distractions with click-to-dismiss functionality.
+  - User Authentication: Implemented secure user login using Auth0 and stored session data with Chrome Extension APIs for personalized, seamless user experiences.
+  - Adding Items: Scraped product details like price, title, and image using AI models and stored organized user data in MongoDB via middleware in background.js.
+  - Folder Organization: Managed real-time folder updates with React’s useState and Virtual DOM, locally caching changes to reduce server interactions.
+  - Item Management: Enabled inline-editing and real-time actions for item updates, deletions, and organization with React hooks.
+  - Email Sharing: Streamlined sharing by allowing users to email folders directly, reducing the need to send multiple links.
+  - Popup and Click Handling: Used useRef and global variables to optimize space and control pop-ups, minimizing distractions with click-to-dismiss functionality.
 
 ### 2. [StressSaver AI](https://github.com/johnstoklas/rowdy-hacks-2024)
 Attended RowdyHacks 2024 where my friends and I built a website where users enter simple, trackable data like step count, heart rate, and hours of sleep. Users receive scores for their health, and a Tensor Flow model predicts stress while OpenAI gives suggestions for how to improve it.
