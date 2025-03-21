@@ -10,7 +10,7 @@ BuyHive is an AI-powered shopping cart that utilizes web scraping to reduce clut
 - **Features**:
   - User Authentication: Implemented secure user login using Auth0 and stored session data with Chrome Extension APIs for personalized, seamless user experiences.
   - Adding Items: Scraped product details like price, title, and image using AI models and stored organized user data in MongoDB via middleware in background.js.
-  - Folder Organization: Managed real-time folder updates with React’s useState and Virtual DOM, locally caching changes to reduce server interactions.
+  - Folder Organization: Managed real-time folder updates with React’s useState and Virtual DOM, making local changes to reduce server interactions.
   - Item Management: Enabled inline-editing and real-time actions for item updates, deletions, and organization with React hooks.
   - Email Sharing: Streamlined sharing by allowing users to email folders directly, reducing the need to send multiple links.
   - Popup and Click Handling: Used useRef and global variables to optimize space and control pop-ups, minimizing distractions with click-to-dismiss functionality.
