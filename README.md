@@ -1,7 +1,7 @@
 # John Stoklas
 
 ## 👋 About Me
-Hi! I'm John Stoklas, an aspiring full-stack developer and a double major in computer science/business at Trinity University. I'm currently leading backend development on an exciting new mobile app project and am conducting research this summer focusing on data visualization! I am drawn to projects that focus heavily on the user experience, as seen in my projects, such as my shopping cart extension, BuyHive, and my AI health predictor, StressSaver. Right now, I'm honing my skills in Agile development and deepening my expertise in cloud computing with Azure.
+Hi! I'm John Stoklas, an aspiring full-stack developer and a double major in computer science/business at Trinity University. I'm currently leading backend development on an exciting new mobile app project and am conducting research this summer focusing on data visualization! I am drawn to projects that focus heavily on the user experience, as seen in my projects, such as my shopping cart extension, BuyHive, and my AI health predictor, StressSaver. 
 
 ## 🚀 Projects
 ### 1. 🐝 [BuyHive Chrome Extension](https://github.com/johnstoklas/buy-hive)
